@@ -1,7 +1,7 @@
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow"
-     href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=520&lines=Hi%2C+I%E2%80%99m+Yanxcod3;Professional+Web+Developer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=520&lines=Hi%2C+I%E2%80%99m+Yanxcod3;Professional+Web+Developer"
+     href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I%E2%80%99m+yanxcod3;Professional+Web+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I%E2%80%99m+yanxcod3;Professional+Web+Developer"
          alt="Typing SVG" style="max-width: 100%;">
   </a>
 </p>
@@ -13,18 +13,13 @@
          alt="Profile views" style="max-width: 100%;">
   </a>
 
-  <a href="https://twitter.com/Yanxcod3" rel="nofollow">
-    <img src="https://img.shields.io/twitter/follow/Yanxcod3?label=Twitter&style=social"
-         alt="Twitter follow" style="max-width: 100%;">
-  </a>
-
   <a href="https://github.com/Yanxcod3?tab=followers">
     <img src="https://img.shields.io/github/followers/Yanxcod3?label=Followers&style=social"
          alt="GitHub followers" style="max-width: 100%;">
   </a>
 </p>
 
-<hr>
+<!-- <hr>
 
 <h2>👨‍💻 About Me</h2>
 
@@ -111,7 +106,7 @@
            height="28" alt="Donate Saweria">
     </a>
   </p>
-</blockquote>
+</blockquote> -->
 
 <hr>
 
