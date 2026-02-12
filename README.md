@@ -1,7 +1,12 @@
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow"
+  <!-- <a target="_blank" rel="noopener noreferrer nofollow"
      href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I%E2%80%99m+yanxcod3;Professional+Web+Developer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I%E2%80%99m+yanxcod3;Professional+Web+Developer"
+         alt="Typing SVG" style="max-width: 100%;">
+  </a> -->
+  <a target="_blank" rel="noopener noreferrer nofollow"
+     href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I%E2%80%99m+yanxcod3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I%E2%80%99m+yanxcod3"
          alt="Typing SVG" style="max-width: 100%;">
   </a>
 </p>
